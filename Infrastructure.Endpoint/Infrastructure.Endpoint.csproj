@@ -55,7 +55,7 @@
   <ItemGroup>
     <Compile Include="Data\Repositories\ProductoRepository.cs" />
     <Compile Include="Data\Repositories\CatProductoRepository.cs" />
-    <Compile Include="Data\Repositories\ColaboradorRepository.cs" />
+    <Compile Include="Data\Repositories\UserRepository.cs" />
     <Compile Include="Data\Repositories\ClienteRepository.cs" />
     <Compile Include="Data\Repositories\ProveedorRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
